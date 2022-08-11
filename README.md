@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SIM
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in Ethincal Hacking, but have limited resource
-- 🌱 I’m currently learning C++ and Python (Finding love in apps development)
+- 🌱 I’m currently learning different languages for my Software Engineering career
 - 💞️ I’m looking to collaborate on basic beginners projects that would stair up my potential to beccome a better one
 - 📫 How to reach me eMail: segunmichael24@gmail.com, WhatsApp: +234 9079199124
 
