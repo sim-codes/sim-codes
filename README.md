@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub page! I'm Ibrahim Michael Oluwasegun, a passionate Python developer specializing in Django. I thrive on developing web applications and exploring the boundless potential of Python.<br><br>Here, you'll discover a compilation of my projects that demonstrate my expertise and experience. I take pleasure in crafting sophisticated and efficient solutions, utilizing the robust capabilities of Django to deliver scalable and resilient web applications.<br><br>I enthusiastically embrace collaboration and learning from fellow developers. If you have any ideas, suggestions, or inquiries regarding my projects or development in general, please feel free to reach out. Let's connect and collaborate to build extraordinary things together!
+Welcome to my GitHub page! I'm Ibrahim Michael Oluwasegun, a passionate developer specializing in Fullstact website development and mobile applications. I thrive on developing applications and exploring the boundless potential of Technology.<br><br>Here, you'll discover a compilation of my projects that demonstrate my expertise and experience. I take pleasure in crafting sophisticated and efficient solutions, utilizing the robust capabilities of Python and JavaScript to deliver scalable and resilient applications.<br><br>I enthusiastically embrace collaboration and learning from fellow developers. If you have any ideas, suggestions, or inquiries regarding my projects or development in general, please feel free to reach out. Let's connect and collaborate to build extraordinary things together!
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@ Welcome to my GitHub page! I'm Ibrahim Michael Oluwasegun, a passionate Python d
 ![](https://github-profile-trophy.vercel.app/?username=sim-codes&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=D_sim_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=simcodes_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
